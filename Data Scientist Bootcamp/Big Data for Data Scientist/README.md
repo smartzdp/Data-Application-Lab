@@ -3,5 +3,5 @@
 * Demo on the Data Application Lab Montana Big Data Cluster: 
 https://montana.dataapplab.com/
 
-* Use the SSH Kernel: 
+* Use the SSH Kernel with Jupyter Notebook: 
 https://github.com/NII-cloud-operation/sshkernel
