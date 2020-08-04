@@ -1,6 +1,6 @@
 # Data-Application-Lab Big Data for Data Scientist
 
-This folder lists the in-class exercises I completed in the big data course of <a href="https://www.dataapplab.com/">Data Application Lab</a>
+This folder lists the in-class exercises I completed in the big data course provided by <a href="https://www.dataapplab.com/">Data Application Lab</a>.
 
 * Operating Environment:
    * Big Data Cluster : <a href="https://montana.dataapplab.com/">Montana Hadoop Computing Cluster</a>
